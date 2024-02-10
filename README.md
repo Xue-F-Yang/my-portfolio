@@ -15,7 +15,7 @@ This is a portfolio website created using the MERN stack (MongoDB, Express.js, R
      SO THAT I can assess whether they're a good candidate for an open position
 
 ## Acceptance Criteria
-      GIVEN a single-page application portfolio for a web developer
+     GIVEN a single-page application portfolio for a web developer
      WHEN I load the portfolio
      THEN I am presented with a page containing a header, a section for content, and a footer
      WHEN I view the header
@@ -40,4 +40,5 @@ This is a portfolio website created using the MERN stack (MongoDB, Express.js, R
      THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
      WHEN I view the footer
      THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
-       
+
+## Link
